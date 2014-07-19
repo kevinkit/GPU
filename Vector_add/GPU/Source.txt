@@ -1,0 +1,5 @@
+
+Original found on:
+http://www.thebigblob.com/getting-started-with-opencl-and-gpu-computing/
+
+extended for time measurements
